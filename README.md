@@ -1,4 +1,4 @@
-# Aprendizado não supervisionado na base Iris: 7 algoritmos de agrupamento e 4 métodos de redução de dimensionalidade
+# 🪻 Aprendizado não supervisionado na base Iris: 7 algoritmos de agrupamento e 4 métodos de redução de dimensionalidade 🪻
 
 Projeto da disciplina de **Aprendizado de Máquina Não Supervisionado** (CIn/UFPE). O notebook compara **sete algoritmos de agrupamento** (Questão 1) e **quatro métodos de redução de dimensionalidade** (Questão 2) sobre a base Iris, com protocolo experimental rigoroso e verificações independentes de cada implementação.
 
